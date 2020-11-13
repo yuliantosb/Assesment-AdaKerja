@@ -9,6 +9,11 @@ Clone this repository
 and install all the packages
 `yarn install` or `npm install` install pod `npx pod-install ios`
 
+<br />
+
+After that running through your device or simulator
+`npx react-native run-ios` or `npx react-native run-android`
+
 ## Screen
 
-<img scr="https://raw.githubusercontent.com/yuliantosb/Assesment-AdaKerja/master/github/screencast.gif" width="300" />
+![Alt Text](https://raw.githubusercontent.com/yuliantosb/Assesment-AdaKerja/master/github/screencast.gif)
